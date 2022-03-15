@@ -1,0 +1,6 @@
+Sofia;Leao;1
+Rogerio;Narnia;0
+ana;anao;1
+Margarida;Flores;1
+Tolkiin;Senhor dos Colares;0
+Maria;Teste;0

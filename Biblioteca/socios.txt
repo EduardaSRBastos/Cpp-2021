@@ -1,0 +1,3 @@
+Marco;222;NULL;
+Bela;333;História;
+Lia;555;NULL;

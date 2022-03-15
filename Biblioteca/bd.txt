@@ -1,0 +1,2 @@
+Gunter;O Simão;0;23;255;1,25;
+Gunnter;O Simnão;2;20;205;3,25;
